@@ -6,7 +6,7 @@ using namespace std;
 
 #define ValMaxVertices 5
 
-//
+//Se añade comentario
 int NumeroDeNodos=0;
 int a=0;
 int b=0;
